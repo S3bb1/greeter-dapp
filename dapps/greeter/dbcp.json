@@ -1,0 +1,40 @@
+{
+  "public": {
+    "author": "evan GmbH",
+    "dapp": {
+      "dependencies": {
+        "angular-core": "^1.0.0",
+        "angular-libs": "^1.0.0"
+      },
+      "entrypoint": "greeter.demo.js",
+      "files": [
+        "greeter.demo.js",
+        "greeter.demo.css"
+      ],
+      "primaryColor": "",
+      "secondaryColor": "#f9f9ff",
+      "origin": "",
+      "standalone": true,
+      "type": "dapp"
+    },
+    "dbcpVersion": 1,
+    "description": "greeter demo",
+    "i18n": {
+      "description": {
+        "en": "greeter demo"
+      },
+      "name": {
+        "en": "greeter"
+      }
+    },
+    "imgSquare": "https://pbs.twimg.com/profile_images/3786155988/46ea2dd8b1bdd31a8ba61044cb5b6ebe_400x400.png",
+    "name": "greeter.demo",
+    "tags": [
+      "dapp",
+      "evan",
+      "library"
+    ],
+    "version": "1.0.0",
+    "versions": {}
+  }
+}
